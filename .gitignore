@@ -1,0 +1,9 @@
+/.ipynb_checkpoints
+/.vscode
+/data
+/eth/artifacts
+/eth/cache
+/eth/node_modules
+/eth/secrets.json
+/experimental/output
+/output
